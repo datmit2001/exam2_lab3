@@ -1,0 +1,42 @@
+.App {
+  max-width: 1200px;
+  padding: 20px;
+  margin: 0 auto;
+}
+
+.header-add-user {
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+.modal-new-user-footer {
+  text-align: right;
+  margin-top: 20px;
+}
+
+.field-input-group {
+  margin-bottom: 20px;
+}
+.ant-list-item-meta-content{
+  margin-bottom: 20px;
+  display: flex;
+ justify-content: space-between;
+}
+.ant-list-item{
+  display: block;
+}
+.btn-edit{
+  background-color: #1890ff;
+  border: none;
+  color: #fff;
+  padding: 5px;
+  cursor: pointer;
+}
+.btn-remove{
+  background-color: red;
+  border: none;
+  color: #fff;
+  padding: 5px;
+  cursor: pointer;
+
+}
